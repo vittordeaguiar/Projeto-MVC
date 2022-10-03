@@ -7,4 +7,4 @@ Após isso, fizemos uma mini calculadora em C#
 </hr>
 
 Calculadora
-<img src=""./gif-calc.gif" alt="gif-calc" width="800px" height="480px">
+<img src="./gif-calc.gif" alt="gif-calc" width="800px" height="480px">
